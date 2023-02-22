@@ -4,7 +4,7 @@
 
 The website was created by Serhiy Paziuk for his portfolio. <br/>
 
-### Website : https://paziuk.github.io/Projects/Sites/Helloblogger/index.html  <br/>
+### Website : https://paziuk.github.io/Projects/Sites/HelloBlogger/index.html  <br/>
 
 ## For creating were used <br/>
 
