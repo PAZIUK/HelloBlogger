@@ -4,7 +4,7 @@
 
 Welcome to our website dedicated to cameras and photography. We are passionate about capturing life's special moments, and our platform provides a one-stop-shop for all things photography. We offer a vast selection of cameras, lenses, accessories, and equipment from the leading brands in the industry.<br/>
 
-### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
+### Link to the website you can find [here](https://github.com/PAZIUK#-websites)<br/>
 
 ## For creating were used <br/>
 
